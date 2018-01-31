@@ -2,4 +2,6 @@
     <string name="app_name">GroupYall</string>
     <string name="john_doe">john doe</string>
     <string name="some_random_messageasdsdfsadasdfasghdnkascrfanxkadfsdjksvgsdhfbsdhbfksbfiwuebfiubweuifweffsdnfghsdjfhvsdjfvsdfvsjdbfchgsdvbfuebfybweofweiofuebfvfsdbofubsdoifiefuo">Some Random messageasdsdfsadasdfasghdnkascrfanxkadfsdjksvgsdhfbsdhbfksbfiwuebfiubweuifweffsdnfghsdjfhvsdjfvsdfvsjdbfchgsdvbfuebfybweofweiofuebfvfsdbofubsdoifiefuo</string>
+    <string name="send">Send</string>
+    <string name="type_message">type message</string>
 </resources>
